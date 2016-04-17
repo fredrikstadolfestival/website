@@ -1,0 +1,41 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+}
+
+#logo {
+    margin: 0 auto 20px;
+    display: block;
+}
+
+.container h2 {
+    font-size: 3em;
+    text-align: center;
+    border-bottom: 1px solid #d0d0d0;
+    padding-top: 75px;
+    padding-bottom: 15px;
+}
+
+.brewery img {
+    width: 100%;
+}
+
+.brewery p {
+    color: #aaa;
+    font-size: 1.2em;
+}
+
+.container .row .col-md-3 {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+    font-size: 1em;
+    color: #aaa;
+}
