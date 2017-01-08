@@ -3,19 +3,13 @@ body {
     padding-top: 50px;
 }
 
-p {
-    font-size: 1.5em;
-}
-
 div.container h2 {
-    font-size: 3em;
     text-align: center;
     border-bottom: 1px solid #2d2d2d;
     padding-bottom: 10px;
 }
 
 div.container h3 {
-    font-size: 2em;
     text-align: center;
     border-bottom: 1px solid #2d2d2d;
     padding-bottom: 10px;
@@ -47,7 +41,6 @@ footer {
 
 footer p {
     text-align: center;
-    font-size: 1em;
     color: #9d9d9d;
     padding: 1em;
     margin-bottom: 0;
@@ -55,10 +48,6 @@ footer p {
 
 div.brewery img {
     width: 100%;
-}
-
-div.brewery p {
-    font-size: 1.2em;
 }
 
 div.container .row .col-md-3 {
