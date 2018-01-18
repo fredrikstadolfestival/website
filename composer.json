@@ -1,0 +1,8 @@
+{
+  "name": "fredrikstadolfestival/website",
+  "description": "Website for Fredrikstad Ølfestival",
+  "homepage": "http://www.fredrikstadolfestival.no",
+  "scripts": {
+    "dev": "php -S localhost:8080 -t ./web"
+  }
+}
